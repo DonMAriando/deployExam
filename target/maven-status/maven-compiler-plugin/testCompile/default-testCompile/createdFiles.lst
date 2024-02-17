@@ -1,0 +1,6 @@
+ar\com\plug\examen\domain\service\ProductServiceTest.class
+ar\com\plug\examen\domain\service\TraderServiceTest.class
+ar\com\plug\examen\domain\service\IntegrationTest.class
+ar\com\plug\examen\domain\service\ProcessMessageServiceTest.class
+ar\com\plug\examen\domain\service\ClientServiceTest.class
+ar\com\plug\examen\domain\service\OrderServiceTest.class
